@@ -1,4 +1,6 @@
 <h1>Hey, I'm Cam!<br/>Games Programmer from the UK</h1>
+<h2><a href="url">Check out my Portfolio here!</a></h2><br>
+
 
 <h2>🎮 Game Development Projects:</h2>
 
@@ -21,7 +23,7 @@
 - [Ulam's Square](https://github.com/ItsCam32/Ulams-Square)
 - [Sierpinski Triangle](https://github.com/ItsCam32/Sierpinski-Triangle)
 
-<h2>💻 Miscellaneous</h2>
+<h2>💻 Other Projects</h2>
 
 - [Encrypted Chat Room](https://github.com/ItsCam32/Chat-Room)
 
