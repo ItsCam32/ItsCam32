@@ -35,4 +35,4 @@
 camfaulkner32@gmail.com
 
 [portfolio]: https://www.camfaulkner.dev/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/camfaulkner/
