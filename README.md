@@ -19,7 +19,7 @@
 - [Lorenz Attractor](https://github.com/ItsCam32/LorenzAttractor)
 - [Orbit Simulation](https://github.com/ItsCam32/OrbitSimulation)
 - [Lightning Algorithm](https://github.com/ItsCam32/LightningAlgoritm)
-- [Toothpick Sequence]()
+- [Toothpick Sequence](https://github.com/ItsCam32/ToothpickSequence)
 - [Ulam's Square]()
 - [Sierpinski Triangle]()
 
