@@ -18,14 +18,14 @@
 
 - [Lorenz Attractor](https://github.com/ItsCam32/LorenzAttractor)
 - [Orbit Simulation](https://github.com/ItsCam32/OrbitSimulation)
-- [Lightning Algorithm](https://github.com/ItsCam32/Lightning-Algorithm)
-- [Toothpick Sequence](https://github.com/ItsCam32/Toothpick-Sequence)
-- [Ulam's Square](https://github.com/ItsCam32/Ulams-Square)
-- [Sierpinski Triangle](https://github.com/ItsCam32/Sierpinski-Triangle)
+- [Lightning Algorithm](https://github.com/ItsCam32/LightningAlgoritm)
+- [Toothpick Sequence]()
+- [Ulam's Square]()
+- [Sierpinski Triangle]()
 
 <h2>💻 Other Projects</h2>
 
-- [Encrypted Chat Room](https://github.com/ItsCam32/Chat-Room)
+- [Encrypted Chat Room]()
 
 <br><h2>🔗 Connect with me:</h2>
 
