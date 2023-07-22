@@ -20,7 +20,7 @@
 - [Orbit Simulation](https://github.com/ItsCam32/OrbitSimulation)
 - [Lightning Algorithm](https://github.com/ItsCam32/LightningAlgoritm)
 - [Toothpick Sequence](https://github.com/ItsCam32/ToothpickSequence)
-- [Ulam's Square]()
+- [Ulam's Square](https://github.com/ItsCam32/UlamsSquare)
 - [Sierpinski Triangle]()
 
 <h2>💻 Other Projects</h2>
