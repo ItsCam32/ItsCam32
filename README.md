@@ -16,7 +16,7 @@
 
 <h2>🧬 Simulations</h2>
 
-- [Lorenz Attractor](https://github.com/ItsCam32/Lorenz-Attractor)
+- [Lorenz Attractor](https://github.com/ItsCam32/LorenzAttractor)
 - [Orbit Simulation]()
 - [Lightning Algorithm](https://github.com/ItsCam32/Lightning-Algorithm)
 - [Toothpick Sequence](https://github.com/ItsCam32/Toothpick-Sequence)
