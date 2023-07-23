@@ -20,10 +20,6 @@
 - [Ulam's Square](https://github.com/ItsCam32/UlamsSquare)
 - [Sierpinski Triangle](https://github.com/ItsCam32/SierpinskiTriangle)
 
-<h2>💻 Other Projects</h2>
-
-- [Encrypted Chat Room]()
-
 <br><h2>🔗 Connect with me:</h2>
 
 [<img align="left" alt="CamFaulkner | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/squarespace.svg" />][portfolio]
