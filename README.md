@@ -23,9 +23,7 @@
 <br><h2>🔗 Connect with me:</h2>
 
 [<img align="left" alt="CamFaulkner | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/squarespace.svg" />][portfolio]
-[<img align="left" alt="CamFaulkner | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br><br>
 camfaulkner32@gmail.com
 
 [portfolio]: https://www.camfaulkner.dev/
-[linkedin]: https://www.linkedin.com/in/camfaulkner/
