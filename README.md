@@ -4,10 +4,6 @@
 
 <h2>🎮 Game Development Projects:</h2>
 
-- <b>Unity</b>
-  - [Sectors](https://github.com/ItsCam32/Sectors)
-  - [PLANT](https://github.com/ItsCam32/PLANT)
-  - [Overtake](https://github.com/ItsCam32/Overtake)
 - <b>Unreal Engine 5</b>
   - [Oversight](https://github.com/ItsCam32/Oversight)
 
