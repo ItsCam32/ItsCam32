@@ -8,13 +8,13 @@
 
 <h2>🧬 Simulations and Tools</h2>
 
-- [Wireframe Creator Tool](https://github.com/ItsCam32/Wireframe-Creator-Tool)
 - [Lorenz Attractor](https://github.com/ItsCam32/LorenzAttractor)
-- [Orbit Simulation](https://github.com/ItsCam32/OrbitSimulation)
+- [Wireframe Creator Tool](https://github.com/ItsCam32/Wireframe-Creator-Tool)
+- [Sierpinski Triangle](https://github.com/ItsCam32/SierpinskiTriangle)
 - [Lightning Algorithm](https://github.com/ItsCam32/LightningAlgoritm)
+- [Orbit Simulation](https://github.com/ItsCam32/OrbitSimulation)
 - [Toothpick Sequence](https://github.com/ItsCam32/ToothpickSequence)
 - [Ulam's Square](https://github.com/ItsCam32/UlamsSquare)
-- [Sierpinski Triangle](https://github.com/ItsCam32/SierpinskiTriangle)
 
 <h2>🔗 Connect with me</h2>
 <b></h3>camfaulkner32@gmail.com</b>
